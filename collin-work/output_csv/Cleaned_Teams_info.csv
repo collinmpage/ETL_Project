@@ -1,0 +1,889 @@
+,Year,Team ID,Team Name,Games,Wins,Loses
+0,1985,ATL,Atlanta Braves,162,66,96
+1,1985,BAL,Baltimore Orioles,161,83,78
+2,1985,BOS,Boston Red Sox,163,81,81
+3,1985,CAL,California Angels,162,90,72
+4,1985,CHA,Chicago White Sox,163,85,77
+5,1985,CHN,Chicago Cubs,162,77,84
+6,1985,CIN,Cincinnati Reds,162,89,72
+7,1985,CLE,Cleveland Indians,162,60,102
+8,1985,DET,Detroit Tigers,161,84,77
+9,1985,HOU,Houston Astros,162,83,79
+10,1985,KCA,Kansas City Royals,162,91,71
+11,1985,LAN,Los Angeles Dodgers,162,95,67
+12,1985,MIN,Minnesota Twins,162,77,85
+13,1985,ML4,Milwaukee Brewers,161,71,90
+14,1985,MON,Montreal Expos,161,84,77
+15,1985,NYA,New York Yankees,161,97,64
+16,1985,NYN,New York Mets,162,98,64
+17,1985,OAK,Oakland Athletics,162,77,85
+18,1985,PHI,Philadelphia Phillies,162,75,87
+19,1985,PIT,Pittsburgh Pirates,161,57,104
+20,1985,SDN,San Diego Padres,162,83,79
+21,1985,SEA,Seattle Mariners,162,74,88
+22,1985,SFN,San Francisco Giants,162,62,100
+23,1985,SLN,St. Louis Cardinals,162,101,61
+24,1985,TEX,Texas Rangers,161,62,99
+25,1985,TOR,Toronto Blue Jays,161,99,62
+26,1986,ATL,Atlanta Braves,161,72,89
+27,1986,BAL,Baltimore Orioles,162,73,89
+28,1986,BOS,Boston Red Sox,161,95,66
+29,1986,CAL,California Angels,162,92,70
+30,1986,CHA,Chicago White Sox,162,72,90
+31,1986,CHN,Chicago Cubs,160,70,90
+32,1986,CIN,Cincinnati Reds,162,86,76
+33,1986,CLE,Cleveland Indians,163,84,78
+34,1986,DET,Detroit Tigers,162,87,75
+35,1986,HOU,Houston Astros,162,96,66
+36,1986,KCA,Kansas City Royals,162,76,86
+37,1986,LAN,Los Angeles Dodgers,162,73,89
+38,1986,MIN,Minnesota Twins,162,71,91
+39,1986,ML4,Milwaukee Brewers,161,77,84
+40,1986,MON,Montreal Expos,161,78,83
+41,1986,NYA,New York Yankees,162,90,72
+42,1986,NYN,New York Mets,162,108,54
+43,1986,OAK,Oakland Athletics,162,76,86
+44,1986,PHI,Philadelphia Phillies,161,86,75
+45,1986,PIT,Pittsburgh Pirates,162,64,98
+46,1986,SDN,San Diego Padres,162,74,88
+47,1986,SEA,Seattle Mariners,162,67,95
+48,1986,SFN,San Francisco Giants,162,83,79
+49,1986,SLN,St. Louis Cardinals,161,79,82
+50,1986,TEX,Texas Rangers,162,87,75
+51,1986,TOR,Toronto Blue Jays,163,86,76
+52,1987,ATL,Atlanta Braves,161,69,92
+53,1987,BAL,Baltimore Orioles,162,67,95
+54,1987,BOS,Boston Red Sox,162,78,84
+55,1987,CAL,California Angels,162,75,87
+56,1987,CHA,Chicago White Sox,162,77,85
+57,1987,CHN,Chicago Cubs,161,76,85
+58,1987,CIN,Cincinnati Reds,162,84,78
+59,1987,CLE,Cleveland Indians,162,61,101
+60,1987,DET,Detroit Tigers,162,98,64
+61,1987,HOU,Houston Astros,162,76,86
+62,1987,KCA,Kansas City Royals,162,83,79
+63,1987,LAN,Los Angeles Dodgers,162,73,89
+64,1987,MIN,Minnesota Twins,162,85,77
+65,1987,ML4,Milwaukee Brewers,162,91,71
+66,1987,MON,Montreal Expos,162,91,71
+67,1987,NYA,New York Yankees,162,89,73
+68,1987,NYN,New York Mets,162,92,70
+69,1987,OAK,Oakland Athletics,162,81,81
+70,1987,PHI,Philadelphia Phillies,162,80,82
+71,1987,PIT,Pittsburgh Pirates,162,80,82
+72,1987,SDN,San Diego Padres,162,65,97
+73,1987,SEA,Seattle Mariners,162,78,84
+74,1987,SFN,San Francisco Giants,162,90,72
+75,1987,SLN,St. Louis Cardinals,162,95,67
+76,1987,TEX,Texas Rangers,162,75,87
+77,1987,TOR,Toronto Blue Jays,162,96,66
+78,1988,ATL,Atlanta Braves,160,54,106
+79,1988,BAL,Baltimore Orioles,161,54,107
+80,1988,BOS,Boston Red Sox,162,89,73
+81,1988,CAL,California Angels,162,75,87
+82,1988,CHA,Chicago White Sox,161,71,90
+83,1988,CHN,Chicago Cubs,163,77,85
+84,1988,CIN,Cincinnati Reds,161,87,74
+85,1988,CLE,Cleveland Indians,162,78,84
+86,1988,DET,Detroit Tigers,162,88,74
+87,1988,HOU,Houston Astros,162,82,80
+88,1988,KCA,Kansas City Royals,161,84,77
+89,1988,LAN,Los Angeles Dodgers,162,94,67
+90,1988,MIN,Minnesota Twins,162,91,71
+91,1988,ML4,Milwaukee Brewers,162,87,75
+92,1988,MON,Montreal Expos,163,81,81
+93,1988,NYA,New York Yankees,161,85,76
+94,1988,NYN,New York Mets,160,100,60
+95,1988,OAK,Oakland Athletics,162,104,58
+96,1988,PHI,Philadelphia Phillies,162,65,96
+97,1988,PIT,Pittsburgh Pirates,160,85,75
+98,1988,SDN,San Diego Padres,161,83,78
+99,1988,SEA,Seattle Mariners,161,68,93
+100,1988,SFN,San Francisco Giants,162,83,79
+101,1988,SLN,St. Louis Cardinals,162,76,86
+102,1988,TEX,Texas Rangers,161,70,91
+103,1988,TOR,Toronto Blue Jays,162,87,75
+104,1989,ATL,Atlanta Braves,161,63,97
+105,1989,BAL,Baltimore Orioles,162,87,75
+106,1989,BOS,Boston Red Sox,162,83,79
+107,1989,CAL,California Angels,162,91,71
+108,1989,CHA,Chicago White Sox,161,69,92
+109,1989,CHN,Chicago Cubs,162,93,69
+110,1989,CIN,Cincinnati Reds,162,75,87
+111,1989,CLE,Cleveland Indians,162,73,89
+112,1989,DET,Detroit Tigers,162,59,103
+113,1989,HOU,Houston Astros,162,86,76
+114,1989,KCA,Kansas City Royals,162,92,70
+115,1989,LAN,Los Angeles Dodgers,160,77,83
+116,1989,MIN,Minnesota Twins,162,80,82
+117,1989,ML4,Milwaukee Brewers,162,81,81
+118,1989,MON,Montreal Expos,162,81,81
+119,1989,NYA,New York Yankees,161,74,87
+120,1989,NYN,New York Mets,162,87,75
+121,1989,OAK,Oakland Athletics,162,99,63
+122,1989,PHI,Philadelphia Phillies,163,67,95
+123,1989,PIT,Pittsburgh Pirates,164,74,88
+124,1989,SDN,San Diego Padres,162,89,73
+125,1989,SEA,Seattle Mariners,162,73,89
+126,1989,SFN,San Francisco Giants,162,92,70
+127,1989,SLN,St. Louis Cardinals,164,86,76
+128,1989,TEX,Texas Rangers,162,83,79
+129,1989,TOR,Toronto Blue Jays,162,89,73
+130,1990,ATL,Atlanta Braves,162,65,97
+131,1990,BAL,Baltimore Orioles,161,76,85
+132,1990,BOS,Boston Red Sox,162,88,74
+133,1990,CAL,California Angels,162,80,82
+134,1990,CHA,Chicago White Sox,162,94,68
+135,1990,CHN,Chicago Cubs,162,77,85
+136,1990,CIN,Cincinnati Reds,162,91,71
+137,1990,CLE,Cleveland Indians,162,77,85
+138,1990,DET,Detroit Tigers,162,79,83
+139,1990,HOU,Houston Astros,162,75,87
+140,1990,KCA,Kansas City Royals,161,75,86
+141,1990,LAN,Los Angeles Dodgers,162,86,76
+142,1990,MIN,Minnesota Twins,162,74,88
+143,1990,ML4,Milwaukee Brewers,162,74,88
+144,1990,MON,Montreal Expos,162,85,77
+145,1990,NYA,New York Yankees,162,67,95
+146,1990,NYN,New York Mets,162,91,71
+147,1990,OAK,Oakland Athletics,162,103,59
+148,1990,PHI,Philadelphia Phillies,162,77,85
+149,1990,PIT,Pittsburgh Pirates,162,95,67
+150,1990,SDN,San Diego Padres,162,75,87
+151,1990,SEA,Seattle Mariners,162,77,85
+152,1990,SFN,San Francisco Giants,162,85,77
+153,1990,SLN,St. Louis Cardinals,162,70,92
+154,1990,TEX,Texas Rangers,162,83,79
+155,1990,TOR,Toronto Blue Jays,162,86,76
+156,1991,ATL,Atlanta Braves,162,94,68
+157,1991,BAL,Baltimore Orioles,162,67,95
+158,1991,BOS,Boston Red Sox,162,84,78
+159,1991,CAL,California Angels,162,81,81
+160,1991,CHA,Chicago White Sox,162,87,75
+161,1991,CHN,Chicago Cubs,160,77,83
+162,1991,CIN,Cincinnati Reds,162,74,88
+163,1991,CLE,Cleveland Indians,162,57,105
+164,1991,DET,Detroit Tigers,162,84,78
+165,1991,HOU,Houston Astros,162,65,97
+166,1991,KCA,Kansas City Royals,162,82,80
+167,1991,LAN,Los Angeles Dodgers,162,93,69
+168,1991,MIN,Minnesota Twins,162,95,67
+169,1991,ML4,Milwaukee Brewers,162,83,79
+170,1991,MON,Montreal Expos,161,71,90
+171,1991,NYA,New York Yankees,162,71,91
+172,1991,NYN,New York Mets,161,77,84
+173,1991,OAK,Oakland Athletics,162,84,78
+174,1991,PHI,Philadelphia Phillies,162,78,84
+175,1991,PIT,Pittsburgh Pirates,162,98,64
+176,1991,SDN,San Diego Padres,162,84,78
+177,1991,SEA,Seattle Mariners,162,83,79
+178,1991,SFN,San Francisco Giants,162,75,87
+179,1991,SLN,St. Louis Cardinals,162,84,78
+180,1991,TEX,Texas Rangers,162,85,77
+181,1991,TOR,Toronto Blue Jays,162,91,71
+182,1992,ATL,Atlanta Braves,162,98,64
+183,1992,BAL,Baltimore Orioles,162,89,73
+184,1992,BOS,Boston Red Sox,162,73,89
+185,1992,CAL,California Angels,162,72,90
+186,1992,CHA,Chicago White Sox,162,86,76
+187,1992,CHN,Chicago Cubs,162,78,84
+188,1992,CIN,Cincinnati Reds,162,90,72
+189,1992,CLE,Cleveland Indians,162,76,86
+190,1992,DET,Detroit Tigers,162,75,87
+191,1992,HOU,Houston Astros,162,81,81
+192,1992,KCA,Kansas City Royals,162,72,90
+193,1992,LAN,Los Angeles Dodgers,162,63,99
+194,1992,MIN,Minnesota Twins,162,90,72
+195,1992,ML4,Milwaukee Brewers,162,92,70
+196,1992,MON,Montreal Expos,162,87,75
+197,1992,NYA,New York Yankees,162,76,86
+198,1992,NYN,New York Mets,162,72,90
+199,1992,OAK,Oakland Athletics,162,96,66
+200,1992,PHI,Philadelphia Phillies,162,70,92
+201,1992,PIT,Pittsburgh Pirates,162,96,66
+202,1992,SDN,San Diego Padres,162,82,80
+203,1992,SEA,Seattle Mariners,162,64,98
+204,1992,SFN,San Francisco Giants,162,72,90
+205,1992,SLN,St. Louis Cardinals,162,83,79
+206,1992,TEX,Texas Rangers,162,77,85
+207,1992,TOR,Toronto Blue Jays,162,96,66
+208,1993,ATL,Atlanta Braves,162,104,58
+209,1993,BAL,Baltimore Orioles,162,85,77
+210,1993,BOS,Boston Red Sox,162,80,82
+211,1993,CAL,California Angels,162,71,91
+212,1993,CHA,Chicago White Sox,162,94,68
+213,1993,CHN,Chicago Cubs,163,84,78
+214,1993,CIN,Cincinnati Reds,162,73,89
+215,1993,CLE,Cleveland Indians,162,76,86
+216,1993,COL,Colorado Rockies,162,67,95
+217,1993,DET,Detroit Tigers,162,85,77
+218,1993,FLO,Florida Marlins,162,64,98
+219,1993,HOU,Houston Astros,162,85,77
+220,1993,KCA,Kansas City Royals,162,84,78
+221,1993,LAN,Los Angeles Dodgers,162,81,81
+222,1993,MIN,Minnesota Twins,162,71,91
+223,1993,ML4,Milwaukee Brewers,162,69,93
+224,1993,MON,Montreal Expos,163,94,68
+225,1993,NYA,New York Yankees,162,88,74
+226,1993,NYN,New York Mets,162,59,103
+227,1993,OAK,Oakland Athletics,162,68,94
+228,1993,PHI,Philadelphia Phillies,162,97,65
+229,1993,PIT,Pittsburgh Pirates,162,75,87
+230,1993,SDN,San Diego Padres,162,61,101
+231,1993,SEA,Seattle Mariners,162,82,80
+232,1993,SFN,San Francisco Giants,162,103,59
+233,1993,SLN,St. Louis Cardinals,162,87,75
+234,1993,TEX,Texas Rangers,162,86,76
+235,1993,TOR,Toronto Blue Jays,162,95,67
+236,1994,ATL,Atlanta Braves,114,68,46
+237,1994,BAL,Baltimore Orioles,112,63,49
+238,1994,BOS,Boston Red Sox,115,54,61
+239,1994,CAL,California Angels,115,47,68
+240,1994,CHA,Chicago White Sox,113,67,46
+241,1994,CHN,Chicago Cubs,113,49,64
+242,1994,CIN,Cincinnati Reds,115,66,48
+243,1994,CLE,Cleveland Indians,113,66,47
+244,1994,COL,Colorado Rockies,117,53,64
+245,1994,DET,Detroit Tigers,115,53,62
+246,1994,FLO,Florida Marlins,115,51,64
+247,1994,HOU,Houston Astros,115,66,49
+248,1994,KCA,Kansas City Royals,115,64,51
+249,1994,LAN,Los Angeles Dodgers,114,58,56
+250,1994,MIN,Minnesota Twins,113,53,60
+251,1994,ML4,Milwaukee Brewers,115,53,62
+252,1994,MON,Montreal Expos,114,74,40
+253,1994,NYA,New York Yankees,113,70,43
+254,1994,NYN,New York Mets,113,55,58
+255,1994,OAK,Oakland Athletics,114,51,63
+256,1994,PHI,Philadelphia Phillies,115,54,61
+257,1994,PIT,Pittsburgh Pirates,114,53,61
+258,1994,SDN,San Diego Padres,117,47,70
+259,1994,SEA,Seattle Mariners,112,49,63
+260,1994,SFN,San Francisco Giants,115,55,60
+261,1994,SLN,St. Louis Cardinals,115,53,61
+262,1994,TEX,Texas Rangers,114,52,62
+263,1994,TOR,Toronto Blue Jays,115,55,60
+264,1995,ATL,Atlanta Braves,144,90,54
+265,1995,BAL,Baltimore Orioles,144,71,73
+266,1995,BOS,Boston Red Sox,144,86,58
+267,1995,CAL,California Angels,145,78,67
+268,1995,CHA,Chicago White Sox,145,68,76
+269,1995,CHN,Chicago Cubs,144,73,71
+270,1995,CIN,Cincinnati Reds,144,85,59
+271,1995,CLE,Cleveland Indians,144,100,44
+272,1995,COL,Colorado Rockies,144,77,67
+273,1995,DET,Detroit Tigers,144,60,84
+274,1995,FLO,Florida Marlins,143,67,76
+275,1995,HOU,Houston Astros,144,76,68
+276,1995,KCA,Kansas City Royals,144,70,74
+277,1995,LAN,Los Angeles Dodgers,144,78,66
+278,1995,MIN,Minnesota Twins,144,56,88
+279,1995,ML4,Milwaukee Brewers,144,65,79
+280,1995,MON,Montreal Expos,144,66,78
+281,1995,NYA,New York Yankees,145,79,65
+282,1995,NYN,New York Mets,144,69,75
+283,1995,OAK,Oakland Athletics,144,67,77
+284,1995,PHI,Philadelphia Phillies,144,69,75
+285,1995,PIT,Pittsburgh Pirates,144,58,86
+286,1995,SDN,San Diego Padres,144,70,74
+287,1995,SEA,Seattle Mariners,145,79,66
+288,1995,SFN,San Francisco Giants,144,67,77
+289,1995,SLN,St. Louis Cardinals,143,62,81
+290,1995,TEX,Texas Rangers,144,74,70
+291,1995,TOR,Toronto Blue Jays,144,56,88
+292,1996,ATL,Atlanta Braves,162,96,66
+293,1996,BAL,Baltimore Orioles,163,88,74
+294,1996,BOS,Boston Red Sox,162,85,77
+295,1996,CAL,California Angels,161,70,91
+296,1996,CHA,Chicago White Sox,162,85,77
+297,1996,CHN,Chicago Cubs,162,76,86
+298,1996,CIN,Cincinnati Reds,162,81,81
+299,1996,CLE,Cleveland Indians,161,99,62
+300,1996,COL,Colorado Rockies,162,83,79
+301,1996,DET,Detroit Tigers,162,53,109
+302,1996,FLO,Florida Marlins,162,80,82
+303,1996,HOU,Houston Astros,162,82,80
+304,1996,KCA,Kansas City Royals,161,75,86
+305,1996,LAN,Los Angeles Dodgers,162,90,72
+306,1996,MIN,Minnesota Twins,162,78,84
+307,1996,ML4,Milwaukee Brewers,162,80,82
+308,1996,MON,Montreal Expos,162,88,74
+309,1996,NYA,New York Yankees,162,92,70
+310,1996,NYN,New York Mets,162,71,91
+311,1996,OAK,Oakland Athletics,162,78,84
+312,1996,PHI,Philadelphia Phillies,162,67,95
+313,1996,PIT,Pittsburgh Pirates,162,73,89
+314,1996,SDN,San Diego Padres,162,91,71
+315,1996,SEA,Seattle Mariners,161,85,76
+316,1996,SFN,San Francisco Giants,162,68,94
+317,1996,SLN,St. Louis Cardinals,162,88,74
+318,1996,TEX,Texas Rangers,163,90,72
+319,1996,TOR,Toronto Blue Jays,162,74,88
+320,1997,ANA,Anaheim Angels,162,84,78
+321,1997,ATL,Atlanta Braves,162,101,61
+322,1997,BAL,Baltimore Orioles,162,98,64
+323,1997,BOS,Boston Red Sox,162,78,84
+324,1997,CHA,Chicago White Sox,161,80,81
+325,1997,CHN,Chicago Cubs,162,68,94
+326,1997,CIN,Cincinnati Reds,162,76,86
+327,1997,CLE,Cleveland Indians,161,86,75
+328,1997,COL,Colorado Rockies,162,83,79
+329,1997,DET,Detroit Tigers,162,79,83
+330,1997,FLO,Florida Marlins,162,92,70
+331,1997,HOU,Houston Astros,162,84,78
+332,1997,KCA,Kansas City Royals,161,67,94
+333,1997,LAN,Los Angeles Dodgers,162,88,74
+334,1997,MIN,Minnesota Twins,162,68,94
+335,1997,ML4,Milwaukee Brewers,161,78,83
+336,1997,MON,Montreal Expos,162,78,84
+337,1997,NYA,New York Yankees,162,96,66
+338,1997,NYN,New York Mets,162,88,74
+339,1997,OAK,Oakland Athletics,162,65,97
+340,1997,PHI,Philadelphia Phillies,162,68,94
+341,1997,PIT,Pittsburgh Pirates,162,79,83
+342,1997,SDN,San Diego Padres,162,76,86
+343,1997,SEA,Seattle Mariners,162,90,72
+344,1997,SFN,San Francisco Giants,162,90,72
+345,1997,SLN,St. Louis Cardinals,162,73,89
+346,1997,TEX,Texas Rangers,162,77,85
+347,1997,TOR,Toronto Blue Jays,162,76,86
+348,1998,ANA,Anaheim Angels,162,85,77
+349,1998,ARI,Arizona Diamondbacks,162,65,97
+350,1998,ATL,Atlanta Braves,162,106,56
+351,1998,BAL,Baltimore Orioles,162,79,83
+352,1998,BOS,Boston Red Sox,162,92,70
+353,1998,CHA,Chicago White Sox,163,80,82
+354,1998,CHN,Chicago Cubs,163,90,73
+355,1998,CIN,Cincinnati Reds,162,77,85
+356,1998,CLE,Cleveland Indians,162,89,73
+357,1998,COL,Colorado Rockies,162,77,85
+358,1998,DET,Detroit Tigers,162,65,97
+359,1998,FLO,Florida Marlins,162,54,108
+360,1998,HOU,Houston Astros,162,102,60
+361,1998,KCA,Kansas City Royals,161,72,89
+362,1998,LAN,Los Angeles Dodgers,162,83,79
+363,1998,MIL,Milwaukee Brewers,162,74,88
+364,1998,MIN,Minnesota Twins,162,70,92
+365,1998,MON,Montreal Expos,162,65,97
+366,1998,NYA,New York Yankees,162,114,48
+367,1998,NYN,New York Mets,162,88,74
+368,1998,OAK,Oakland Athletics,162,74,88
+369,1998,PHI,Philadelphia Phillies,162,75,87
+370,1998,PIT,Pittsburgh Pirates,163,69,93
+371,1998,SDN,San Diego Padres,162,98,64
+372,1998,SEA,Seattle Mariners,161,76,85
+373,1998,SFN,San Francisco Giants,163,89,74
+374,1998,SLN,St. Louis Cardinals,163,83,79
+375,1998,TBA,Tampa Bay Devil Rays,162,63,99
+376,1998,TEX,Texas Rangers,162,88,74
+377,1998,TOR,Toronto Blue Jays,163,88,74
+378,1999,ANA,Anaheim Angels,162,70,92
+379,1999,ARI,Arizona Diamondbacks,162,100,62
+380,1999,ATL,Atlanta Braves,162,103,59
+381,1999,BAL,Baltimore Orioles,162,78,84
+382,1999,BOS,Boston Red Sox,162,94,68
+383,1999,CHA,Chicago White Sox,162,75,86
+384,1999,CHN,Chicago Cubs,162,67,95
+385,1999,CIN,Cincinnati Reds,163,96,67
+386,1999,CLE,Cleveland Indians,162,97,65
+387,1999,COL,Colorado Rockies,162,72,90
+388,1999,DET,Detroit Tigers,161,69,92
+389,1999,FLO,Florida Marlins,162,64,98
+390,1999,HOU,Houston Astros,162,97,65
+391,1999,KCA,Kansas City Royals,161,64,97
+392,1999,LAN,Los Angeles Dodgers,162,77,85
+393,1999,MIL,Milwaukee Brewers,161,74,87
+394,1999,MIN,Minnesota Twins,161,63,97
+395,1999,MON,Montreal Expos,162,68,94
+396,1999,NYA,New York Yankees,162,98,64
+397,1999,NYN,New York Mets,163,97,66
+398,1999,OAK,Oakland Athletics,162,87,75
+399,1999,PHI,Philadelphia Phillies,162,77,85
+400,1999,PIT,Pittsburgh Pirates,161,78,83
+401,1999,SDN,San Diego Padres,162,74,88
+402,1999,SEA,Seattle Mariners,162,79,83
+403,1999,SFN,San Francisco Giants,162,86,76
+404,1999,SLN,St. Louis Cardinals,161,75,86
+405,1999,TBA,Tampa Bay Devil Rays,162,69,93
+406,1999,TEX,Texas Rangers,162,95,67
+407,1999,TOR,Toronto Blue Jays,162,84,78
+408,2000,ANA,Anaheim Angels,162,82,80
+409,2000,ARI,Arizona Diamondbacks,162,85,77
+410,2000,ATL,Atlanta Braves,162,95,67
+411,2000,BAL,Baltimore Orioles,162,74,88
+412,2000,BOS,Boston Red Sox,162,85,77
+413,2000,CHA,Chicago White Sox,162,95,67
+414,2000,CHN,Chicago Cubs,162,65,97
+415,2000,CIN,Cincinnati Reds,163,85,77
+416,2000,CLE,Cleveland Indians,162,90,72
+417,2000,COL,Colorado Rockies,162,82,80
+418,2000,DET,Detroit Tigers,162,79,83
+419,2000,FLO,Florida Marlins,161,79,82
+420,2000,HOU,Houston Astros,162,72,90
+421,2000,KCA,Kansas City Royals,162,77,85
+422,2000,LAN,Los Angeles Dodgers,162,86,76
+423,2000,MIL,Milwaukee Brewers,163,73,89
+424,2000,MIN,Minnesota Twins,162,69,93
+425,2000,MON,Montreal Expos,162,67,95
+426,2000,NYA,New York Yankees,161,87,74
+427,2000,NYN,New York Mets,162,94,68
+428,2000,OAK,Oakland Athletics,161,91,70
+429,2000,PHI,Philadelphia Phillies,162,65,97
+430,2000,PIT,Pittsburgh Pirates,162,69,93
+431,2000,SDN,San Diego Padres,162,76,86
+432,2000,SEA,Seattle Mariners,162,91,71
+433,2000,SFN,San Francisco Giants,162,97,65
+434,2000,SLN,St. Louis Cardinals,162,95,67
+435,2000,TBA,Tampa Bay Devil Rays,161,69,92
+436,2000,TEX,Texas Rangers,162,71,91
+437,2000,TOR,Toronto Blue Jays,162,83,79
+438,2001,ANA,Anaheim Angels,162,75,87
+439,2001,ARI,Arizona Diamondbacks,162,92,70
+440,2001,ATL,Atlanta Braves,162,88,74
+441,2001,BAL,Baltimore Orioles,162,63,98
+442,2001,BOS,Boston Red Sox,161,82,79
+443,2001,CHA,Chicago White Sox,162,83,79
+444,2001,CHN,Chicago Cubs,162,88,74
+445,2001,CIN,Cincinnati Reds,162,66,96
+446,2001,CLE,Cleveland Indians,162,91,71
+447,2001,COL,Colorado Rockies,162,73,89
+448,2001,DET,Detroit Tigers,162,66,96
+449,2001,FLO,Florida Marlins,162,76,86
+450,2001,HOU,Houston Astros,162,93,69
+451,2001,KCA,Kansas City Royals,162,65,97
+452,2001,LAN,Los Angeles Dodgers,162,86,76
+453,2001,MIL,Milwaukee Brewers,162,68,94
+454,2001,MIN,Minnesota Twins,162,85,77
+455,2001,MON,Montreal Expos,162,68,94
+456,2001,NYA,New York Yankees,161,95,65
+457,2001,NYN,New York Mets,162,82,80
+458,2001,OAK,Oakland Athletics,162,102,60
+459,2001,PHI,Philadelphia Phillies,162,86,76
+460,2001,PIT,Pittsburgh Pirates,162,62,100
+461,2001,SDN,San Diego Padres,162,79,83
+462,2001,SEA,Seattle Mariners,162,116,46
+463,2001,SFN,San Francisco Giants,162,90,72
+464,2001,SLN,St. Louis Cardinals,162,93,69
+465,2001,TBA,Tampa Bay Devil Rays,162,62,100
+466,2001,TEX,Texas Rangers,162,73,89
+467,2001,TOR,Toronto Blue Jays,162,80,82
+468,2002,ANA,Anaheim Angels,162,99,63
+469,2002,ARI,Arizona Diamondbacks,162,98,64
+470,2002,ATL,Atlanta Braves,161,101,59
+471,2002,BAL,Baltimore Orioles,162,67,95
+472,2002,BOS,Boston Red Sox,162,93,69
+473,2002,CHA,Chicago White Sox,162,81,81
+474,2002,CHN,Chicago Cubs,162,67,95
+475,2002,CIN,Cincinnati Reds,162,78,84
+476,2002,CLE,Cleveland Indians,162,74,88
+477,2002,COL,Colorado Rockies,162,73,89
+478,2002,DET,Detroit Tigers,161,55,106
+479,2002,FLO,Florida Marlins,162,79,83
+480,2002,HOU,Houston Astros,162,84,78
+481,2002,KCA,Kansas City Royals,162,62,100
+482,2002,LAN,Los Angeles Dodgers,162,92,70
+483,2002,MIL,Milwaukee Brewers,162,56,106
+484,2002,MIN,Minnesota Twins,161,94,67
+485,2002,MON,Montreal Expos,162,83,79
+486,2002,NYA,New York Yankees,161,103,58
+487,2002,NYN,New York Mets,161,75,86
+488,2002,OAK,Oakland Athletics,162,103,59
+489,2002,PHI,Philadelphia Phillies,161,80,81
+490,2002,PIT,Pittsburgh Pirates,161,72,89
+491,2002,SDN,San Diego Padres,162,66,96
+492,2002,SEA,Seattle Mariners,162,93,69
+493,2002,SFN,San Francisco Giants,162,95,66
+494,2002,SLN,St. Louis Cardinals,162,97,65
+495,2002,TBA,Tampa Bay Devil Rays,161,55,106
+496,2002,TEX,Texas Rangers,162,72,90
+497,2002,TOR,Toronto Blue Jays,162,78,84
+498,2003,ANA,Anaheim Angels,162,77,85
+499,2003,ARI,Arizona Diamondbacks,162,84,78
+500,2003,ATL,Atlanta Braves,162,101,61
+501,2003,BAL,Baltimore Orioles,163,71,91
+502,2003,BOS,Boston Red Sox,162,95,67
+503,2003,CHA,Chicago White Sox,162,86,76
+504,2003,CHN,Chicago Cubs,162,88,74
+505,2003,CIN,Cincinnati Reds,162,69,93
+506,2003,CLE,Cleveland Indians,162,68,94
+507,2003,COL,Colorado Rockies,162,74,88
+508,2003,DET,Detroit Tigers,162,43,119
+509,2003,FLO,Florida Marlins,162,91,71
+510,2003,HOU,Houston Astros,162,87,75
+511,2003,KCA,Kansas City Royals,162,83,79
+512,2003,LAN,Los Angeles Dodgers,162,85,77
+513,2003,MIL,Milwaukee Brewers,162,68,94
+514,2003,MIN,Minnesota Twins,162,90,72
+515,2003,MON,Montreal Expos,162,83,79
+516,2003,NYA,New York Yankees,163,101,61
+517,2003,NYN,New York Mets,161,66,95
+518,2003,OAK,Oakland Athletics,162,96,66
+519,2003,PHI,Philadelphia Phillies,162,86,76
+520,2003,PIT,Pittsburgh Pirates,162,75,87
+521,2003,SDN,San Diego Padres,162,64,98
+522,2003,SEA,Seattle Mariners,162,93,69
+523,2003,SFN,San Francisco Giants,161,100,61
+524,2003,SLN,St. Louis Cardinals,162,85,77
+525,2003,TBA,Tampa Bay Devil Rays,162,63,99
+526,2003,TEX,Texas Rangers,162,71,91
+527,2003,TOR,Toronto Blue Jays,162,86,76
+528,2004,ANA,Anaheim Angels,162,92,70
+529,2004,ARI,Arizona Diamondbacks,162,51,111
+530,2004,ATL,Atlanta Braves,162,96,66
+531,2004,BAL,Baltimore Orioles,162,78,84
+532,2004,BOS,Boston Red Sox,162,98,64
+533,2004,CHA,Chicago White Sox,162,83,79
+534,2004,CHN,Chicago Cubs,162,89,73
+535,2004,CIN,Cincinnati Reds,162,76,86
+536,2004,CLE,Cleveland Indians,162,80,82
+537,2004,COL,Colorado Rockies,162,68,94
+538,2004,DET,Detroit Tigers,162,72,90
+539,2004,FLO,Florida Marlins,162,83,79
+540,2004,HOU,Houston Astros,162,92,70
+541,2004,KCA,Kansas City Royals,162,58,104
+542,2004,LAN,Los Angeles Dodgers,162,93,69
+543,2004,MIL,Milwaukee Brewers,161,67,94
+544,2004,MIN,Minnesota Twins,162,92,70
+545,2004,MON,Montreal Expos,162,67,95
+546,2004,NYA,New York Yankees,162,101,61
+547,2004,NYN,New York Mets,162,71,91
+548,2004,OAK,Oakland Athletics,162,91,71
+549,2004,PHI,Philadelphia Phillies,162,86,76
+550,2004,PIT,Pittsburgh Pirates,161,72,89
+551,2004,SDN,San Diego Padres,162,87,75
+552,2004,SEA,Seattle Mariners,162,63,99
+553,2004,SFN,San Francisco Giants,162,91,71
+554,2004,SLN,St. Louis Cardinals,162,105,57
+555,2004,TBA,Tampa Bay Devil Rays,161,70,91
+556,2004,TEX,Texas Rangers,162,89,73
+557,2004,TOR,Toronto Blue Jays,161,67,94
+558,2005,ARI,Arizona Diamondbacks,162,77,85
+559,2005,ATL,Atlanta Braves,162,90,72
+560,2005,BAL,Baltimore Orioles,162,74,88
+561,2005,BOS,Boston Red Sox,162,95,67
+562,2005,CHA,Chicago White Sox,162,99,63
+563,2005,CHN,Chicago Cubs,162,79,83
+564,2005,CIN,Cincinnati Reds,163,73,89
+565,2005,CLE,Cleveland Indians,162,93,69
+566,2005,COL,Colorado Rockies,162,67,95
+567,2005,DET,Detroit Tigers,162,71,91
+568,2005,FLO,Florida Marlins,162,83,79
+569,2005,HOU,Houston Astros,163,89,73
+570,2005,KCA,Kansas City Royals,162,56,106
+571,2005,LAA,Los Angeles Angels of Anaheim,162,95,67
+572,2005,LAN,Los Angeles Dodgers,162,71,91
+573,2005,MIL,Milwaukee Brewers,162,81,81
+574,2005,MIN,Minnesota Twins,162,83,79
+575,2005,NYA,New York Yankees,162,95,67
+576,2005,NYN,New York Mets,162,83,79
+577,2005,OAK,Oakland Athletics,162,88,74
+578,2005,PHI,Philadelphia Phillies,162,88,74
+579,2005,PIT,Pittsburgh Pirates,162,67,95
+580,2005,SDN,San Diego Padres,162,82,80
+581,2005,SEA,Seattle Mariners,162,69,93
+582,2005,SFN,San Francisco Giants,162,75,87
+583,2005,SLN,St. Louis Cardinals,162,100,62
+584,2005,TBA,Tampa Bay Devil Rays,162,67,95
+585,2005,TEX,Texas Rangers,162,79,83
+586,2005,TOR,Toronto Blue Jays,162,80,82
+587,2005,WAS,Washington Nationals,162,81,81
+588,2006,ARI,Arizona Diamondbacks,162,76,86
+589,2006,ATL,Atlanta Braves,162,79,83
+590,2006,BAL,Baltimore Orioles,162,70,92
+591,2006,BOS,Boston Red Sox,162,86,76
+592,2006,CHA,Chicago White Sox,162,90,72
+593,2006,CHN,Chicago Cubs,162,66,96
+594,2006,CIN,Cincinnati Reds,162,80,82
+595,2006,CLE,Cleveland Indians,162,78,84
+596,2006,COL,Colorado Rockies,162,76,86
+597,2006,DET,Detroit Tigers,162,95,67
+598,2006,FLO,Florida Marlins,162,78,84
+599,2006,HOU,Houston Astros,162,82,80
+600,2006,KCA,Kansas City Royals,162,62,100
+601,2006,LAA,Los Angeles Angels of Anaheim,162,89,73
+602,2006,LAN,Los Angeles Dodgers,162,88,74
+603,2006,MIL,Milwaukee Brewers,162,75,87
+604,2006,MIN,Minnesota Twins,162,96,66
+605,2006,NYA,New York Yankees,162,97,65
+606,2006,NYN,New York Mets,162,97,65
+607,2006,OAK,Oakland Athletics,162,93,69
+608,2006,PHI,Philadelphia Phillies,162,85,77
+609,2006,PIT,Pittsburgh Pirates,162,67,95
+610,2006,SDN,San Diego Padres,162,88,74
+611,2006,SEA,Seattle Mariners,162,78,84
+612,2006,SFN,San Francisco Giants,161,76,85
+613,2006,SLN,St. Louis Cardinals,161,83,78
+614,2006,TBA,Tampa Bay Devil Rays,162,61,101
+615,2006,TEX,Texas Rangers,162,80,82
+616,2006,TOR,Toronto Blue Jays,162,87,75
+617,2006,WAS,Washington Nationals,162,71,91
+618,2007,ARI,Arizona Diamondbacks,162,90,72
+619,2007,ATL,Atlanta Braves,162,84,78
+620,2007,BAL,Baltimore Orioles,162,69,93
+621,2007,BOS,Boston Red Sox,162,96,66
+622,2007,CHA,Chicago White Sox,162,72,90
+623,2007,CHN,Chicago Cubs,162,85,77
+624,2007,CIN,Cincinnati Reds,162,72,90
+625,2007,CLE,Cleveland Indians,162,96,66
+626,2007,COL,Colorado Rockies,163,90,73
+627,2007,DET,Detroit Tigers,162,88,74
+628,2007,FLO,Florida Marlins,162,71,91
+629,2007,HOU,Houston Astros,162,73,89
+630,2007,KCA,Kansas City Royals,162,69,93
+631,2007,LAA,Los Angeles Angels of Anaheim,162,94,68
+632,2007,LAN,Los Angeles Dodgers,162,82,80
+633,2007,MIL,Milwaukee Brewers,162,83,79
+634,2007,MIN,Minnesota Twins,162,79,83
+635,2007,NYA,New York Yankees,162,94,68
+636,2007,NYN,New York Mets,162,88,74
+637,2007,OAK,Oakland Athletics,162,76,86
+638,2007,PHI,Philadelphia Phillies,162,89,73
+639,2007,PIT,Pittsburgh Pirates,162,68,94
+640,2007,SDN,San Diego Padres,163,89,74
+641,2007,SEA,Seattle Mariners,162,88,74
+642,2007,SFN,San Francisco Giants,162,71,91
+643,2007,SLN,St. Louis Cardinals,162,78,84
+644,2007,TBA,Tampa Bay Devil Rays,162,66,96
+645,2007,TEX,Texas Rangers,162,75,87
+646,2007,TOR,Toronto Blue Jays,162,83,79
+647,2007,WAS,Washington Nationals,162,73,89
+648,2008,ARI,Arizona Diamondbacks,162,82,80
+649,2008,ATL,Atlanta Braves,162,72,90
+650,2008,BAL,Baltimore Orioles,161,68,93
+651,2008,BOS,Boston Red Sox,162,95,67
+652,2008,CHA,Chicago White Sox,163,89,74
+653,2008,CHN,Chicago Cubs,161,97,64
+654,2008,CIN,Cincinnati Reds,162,74,88
+655,2008,CLE,Cleveland Indians,162,81,81
+656,2008,COL,Colorado Rockies,162,74,88
+657,2008,DET,Detroit Tigers,162,74,88
+658,2008,FLO,Florida Marlins,161,84,77
+659,2008,HOU,Houston Astros,161,86,75
+660,2008,KCA,Kansas City Royals,162,75,87
+661,2008,LAA,Los Angeles Angels of Anaheim,162,100,62
+662,2008,LAN,Los Angeles Dodgers,162,84,78
+663,2008,MIL,Milwaukee Brewers,162,90,72
+664,2008,MIN,Minnesota Twins,163,88,75
+665,2008,NYA,New York Yankees,162,89,73
+666,2008,NYN,New York Mets,162,89,73
+667,2008,OAK,Oakland Athletics,161,75,86
+668,2008,PHI,Philadelphia Phillies,162,92,70
+669,2008,PIT,Pittsburgh Pirates,162,67,95
+670,2008,SDN,San Diego Padres,162,63,99
+671,2008,SEA,Seattle Mariners,162,61,101
+672,2008,SFN,San Francisco Giants,162,72,90
+673,2008,SLN,St. Louis Cardinals,162,86,76
+674,2008,TBA,Tampa Bay Rays,162,97,65
+675,2008,TEX,Texas Rangers,162,79,83
+676,2008,TOR,Toronto Blue Jays,162,86,76
+677,2008,WAS,Washington Nationals,161,59,102
+678,2009,ARI,Arizona Diamondbacks,162,70,92
+679,2009,ATL,Atlanta Braves,162,86,76
+680,2009,BAL,Baltimore Orioles,162,64,98
+681,2009,BOS,Boston Red Sox,162,95,67
+682,2009,CHA,Chicago White Sox,162,79,83
+683,2009,CHN,Chicago Cubs,161,83,78
+684,2009,CIN,Cincinnati Reds,162,78,84
+685,2009,CLE,Cleveland Indians,162,65,97
+686,2009,COL,Colorado Rockies,162,92,70
+687,2009,DET,Detroit Tigers,163,86,77
+688,2009,FLO,Florida Marlins,162,87,75
+689,2009,HOU,Houston Astros,162,74,88
+690,2009,KCA,Kansas City Royals,162,65,97
+691,2009,LAA,Los Angeles Angels of Anaheim,162,97,65
+692,2009,LAN,Los Angeles Dodgers,162,95,67
+693,2009,MIL,Milwaukee Brewers,162,80,82
+694,2009,MIN,Minnesota Twins,163,87,76
+695,2009,NYA,New York Yankees,162,103,59
+696,2009,NYN,New York Mets,162,70,92
+697,2009,OAK,Oakland Athletics,162,75,87
+698,2009,PHI,Philadelphia Phillies,162,93,69
+699,2009,PIT,Pittsburgh Pirates,161,62,99
+700,2009,SDN,San Diego Padres,162,75,87
+701,2009,SEA,Seattle Mariners,162,85,77
+702,2009,SFN,San Francisco Giants,162,88,74
+703,2009,SLN,St. Louis Cardinals,162,91,71
+704,2009,TBA,Tampa Bay Rays,162,84,78
+705,2009,TEX,Texas Rangers,162,87,75
+706,2009,TOR,Toronto Blue Jays,162,75,87
+707,2009,WAS,Washington Nationals,162,59,103
+708,2010,ARI,Arizona Diamondbacks,162,65,97
+709,2010,ATL,Atlanta Braves,162,91,71
+710,2010,BAL,Baltimore Orioles,162,66,96
+711,2010,BOS,Boston Red Sox,162,89,73
+712,2010,CHA,Chicago White Sox,162,88,74
+713,2010,CHN,Chicago Cubs,162,75,87
+714,2010,CIN,Cincinnati Reds,162,91,71
+715,2010,CLE,Cleveland Indians,162,69,93
+716,2010,COL,Colorado Rockies,162,83,79
+717,2010,DET,Detroit Tigers,162,81,81
+718,2010,FLO,Florida Marlins,162,80,82
+719,2010,HOU,Houston Astros,162,76,86
+720,2010,KCA,Kansas City Royals,162,67,95
+721,2010,LAA,Los Angeles Angels of Anaheim,162,80,82
+722,2010,LAN,Los Angeles Dodgers,162,80,82
+723,2010,MIL,Milwaukee Brewers,162,77,85
+724,2010,MIN,Minnesota Twins,162,94,68
+725,2010,NYA,New York Yankees,162,95,67
+726,2010,NYN,New York Mets,162,79,83
+727,2010,OAK,Oakland Athletics,162,81,81
+728,2010,PHI,Philadelphia Phillies,162,97,65
+729,2010,PIT,Pittsburgh Pirates,162,57,105
+730,2010,SDN,San Diego Padres,162,90,72
+731,2010,SEA,Seattle Mariners,162,61,101
+732,2010,SFN,San Francisco Giants,162,92,70
+733,2010,SLN,St. Louis Cardinals,162,86,76
+734,2010,TBA,Tampa Bay Rays,162,96,66
+735,2010,TEX,Texas Rangers,162,90,72
+736,2010,TOR,Toronto Blue Jays,162,85,77
+737,2010,WAS,Washington Nationals,162,69,93
+738,2011,ARI,Arizona Diamondbacks,162,94,68
+739,2011,ATL,Atlanta Braves,162,89,73
+740,2011,BAL,Baltimore Orioles,162,69,93
+741,2011,BOS,Boston Red Sox,162,90,72
+742,2011,CHA,Chicago White Sox,162,79,83
+743,2011,CHN,Chicago Cubs,162,71,91
+744,2011,CIN,Cincinnati Reds,162,79,83
+745,2011,CLE,Cleveland Indians,162,80,82
+746,2011,COL,Colorado Rockies,162,73,89
+747,2011,DET,Detroit Tigers,162,95,67
+748,2011,FLO,Florida Marlins,162,72,90
+749,2011,HOU,Houston Astros,162,56,106
+750,2011,KCA,Kansas City Royals,162,71,91
+751,2011,LAA,Los Angeles Angels of Anaheim,162,86,76
+752,2011,LAN,Los Angeles Dodgers,161,82,79
+753,2011,MIL,Milwaukee Brewers,162,96,66
+754,2011,MIN,Minnesota Twins,162,63,99
+755,2011,NYA,New York Yankees,162,97,65
+756,2011,NYN,New York Mets,162,77,85
+757,2011,OAK,Oakland Athletics,162,74,88
+758,2011,PHI,Philadelphia Phillies,162,102,60
+759,2011,PIT,Pittsburgh Pirates,162,72,90
+760,2011,SDN,San Diego Padres,162,71,91
+761,2011,SEA,Seattle Mariners,162,67,95
+762,2011,SFN,San Francisco Giants,162,86,76
+763,2011,SLN,St. Louis Cardinals,162,90,72
+764,2011,TBA,Tampa Bay Rays,162,91,71
+765,2011,TEX,Texas Rangers,162,96,66
+766,2011,TOR,Toronto Blue Jays,162,81,81
+767,2011,WAS,Washington Nationals,161,80,81
+768,2012,ARI,Arizona Diamondbacks,162,81,81
+769,2012,ATL,Atlanta Braves,162,94,68
+770,2012,BAL,Baltimore Orioles,162,93,69
+771,2012,BOS,Boston Red Sox,162,69,93
+772,2012,CHA,Chicago White Sox,162,85,77
+773,2012,CHN,Chicago Cubs,162,61,101
+774,2012,CIN,Cincinnati Reds,162,97,65
+775,2012,CLE,Cleveland Indians,162,68,94
+776,2012,COL,Colorado Rockies,162,64,98
+777,2012,DET,Detroit Tigers,162,88,74
+778,2012,HOU,Houston Astros,162,55,107
+779,2012,KCA,Kansas City Royals,162,72,90
+780,2012,LAA,Los Angeles Angels of Anaheim,162,89,73
+781,2012,LAN,Los Angeles Dodgers,162,86,76
+782,2012,MIA,Miami Marlins,162,69,93
+783,2012,MIL,Milwaukee Brewers,162,83,79
+784,2012,MIN,Minnesota Twins,162,66,96
+785,2012,NYA,New York Yankees,162,95,67
+786,2012,NYN,New York Mets,162,74,88
+787,2012,OAK,Oakland Athletics,162,94,68
+788,2012,PHI,Philadelphia Phillies,162,81,81
+789,2012,PIT,Pittsburgh Pirates,162,79,83
+790,2012,SDN,San Diego Padres,162,76,86
+791,2012,SEA,Seattle Mariners,162,75,87
+792,2012,SFN,San Francisco Giants,162,94,68
+793,2012,SLN,St. Louis Cardinals,162,88,74
+794,2012,TBA,Tampa Bay Rays,162,90,72
+795,2012,TEX,Texas Rangers,162,93,69
+796,2012,TOR,Toronto Blue Jays,162,73,89
+797,2012,WAS,Washington Nationals,162,98,64
+798,2013,ARI,Arizona Diamondbacks,162,81,81
+799,2013,ATL,Atlanta Braves,162,96,66
+800,2013,BAL,Baltimore Orioles,162,85,77
+801,2013,BOS,Boston Red Sox,162,97,65
+802,2013,CHA,Chicago White Sox,162,63,99
+803,2013,CHN,Chicago Cubs,162,66,96
+804,2013,CIN,Cincinnati Reds,162,90,72
+805,2013,CLE,Cleveland Indians,162,92,70
+806,2013,COL,Colorado Rockies,162,74,88
+807,2013,DET,Detroit Tigers,162,93,69
+808,2013,HOU,Houston Astros,162,51,111
+809,2013,KCA,Kansas City Royals,162,86,76
+810,2013,LAA,Los Angeles Angels of Anaheim,162,78,84
+811,2013,LAN,Los Angeles Dodgers,162,92,70
+812,2013,MIA,Miami Marlins,162,62,100
+813,2013,MIL,Milwaukee Brewers,162,74,88
+814,2013,MIN,Minnesota Twins,162,66,96
+815,2013,NYA,New York Yankees,162,85,77
+816,2013,NYN,New York Mets,162,74,88
+817,2013,OAK,Oakland Athletics,162,96,66
+818,2013,PHI,Philadelphia Phillies,162,73,89
+819,2013,PIT,Pittsburgh Pirates,162,94,68
+820,2013,SDN,San Diego Padres,162,76,86
+821,2013,SEA,Seattle Mariners,162,71,91
+822,2013,SFN,San Francisco Giants,162,76,86
+823,2013,SLN,St. Louis Cardinals,162,97,65
+824,2013,TBA,Tampa Bay Rays,163,92,71
+825,2013,TEX,Texas Rangers,163,91,72
+826,2013,TOR,Toronto Blue Jays,162,74,88
+827,2013,WAS,Washington Nationals,162,86,76
+828,2014,ARI,Arizona Diamondbacks,162,64,98
+829,2014,ATL,Atlanta Braves,162,79,83
+830,2014,BAL,Baltimore Orioles,162,96,66
+831,2014,BOS,Boston Red Sox,162,71,91
+832,2014,CHA,Chicago White Sox,162,73,89
+833,2014,CHN,Chicago Cubs,162,73,89
+834,2014,CIN,Cincinnati Reds,162,76,86
+835,2014,CLE,Cleveland Indians,162,85,77
+836,2014,COL,Colorado Rockies,162,66,96
+837,2014,DET,Detroit Tigers,162,90,72
+838,2014,HOU,Houston Astros,162,70,92
+839,2014,KCA,Kansas City Royals,162,89,73
+840,2014,LAA,Los Angeles Angels of Anaheim,162,98,64
+841,2014,LAN,Los Angeles Dodgers,162,94,68
+842,2014,MIA,Miami Marlins,162,77,85
+843,2014,MIL,Milwaukee Brewers,162,82,80
+844,2014,MIN,Minnesota Twins,162,70,92
+845,2014,NYA,New York Yankees,162,84,78
+846,2014,NYN,New York Mets,162,79,83
+847,2014,OAK,Oakland Athletics,162,88,74
+848,2014,PHI,Philadelphia Phillies,162,73,89
+849,2014,PIT,Pittsburgh Pirates,162,88,74
+850,2014,SDN,San Diego Padres,162,77,85
+851,2014,SEA,Seattle Mariners,162,87,75
+852,2014,SFN,San Francisco Giants,162,88,74
+853,2014,SLN,St. Louis Cardinals,162,90,72
+854,2014,TBA,Tampa Bay Rays,162,77,85
+855,2014,TEX,Texas Rangers,162,67,95
+856,2014,TOR,Toronto Blue Jays,162,83,79
+857,2014,WAS,Washington Nationals,162,96,66
+858,2015,KCA,Kansas City Royals,162,95,67
+859,2015,MIN,Minnesota Twins,162,83,79
+860,2015,CLE,Cleveland Indians,161,81,80
+861,2015,CHA,Chicago White Sox,162,76,86
+862,2015,DET,Detroit Tigers,161,74,87
+863,2015,TOR,Toronto Blue Jays,162,93,69
+864,2015,NYA,New York Yankees,162,87,75
+865,2015,BAL,Baltimore Orioles,162,81,81
+866,2015,TBA,Tampa Bay Rays,162,80,82
+867,2015,BOS,Boston Red Sox,162,78,84
+868,2015,TEX,Texas Rangers,162,88,74
+869,2015,HOU,Houston Astros,162,86,76
+870,2015,LAA,Los Angeles Angels of Anaheim,162,85,77
+871,2015,SEA,Seattle Mariners,162,76,86
+872,2015,OAK,Oakland Athletics,162,68,94
+873,2015,SLN,St. Louis Cardinals,162,100,62
+874,2015,PIT,Pittsburgh Pirates,162,98,64
+875,2015,CHN,Chicago Cubs,162,97,65
+876,2015,MIL,Milwaukee Brewers,162,68,94
+877,2015,CIN,Cincinnati Reds,162,64,98
+878,2015,NYN,New York Mets,162,90,72
+879,2015,WAS,Washington Nationals,162,83,79
+880,2015,MIA,Miami Marlins,162,71,91
+881,2015,ATL,Atlanta Braves,162,67,95
+882,2015,PHI,Philadelphia Phillies,162,63,99
+883,2015,LAN,Los Angeles Dodgers,162,92,70
+884,2015,SFN,San Francisco Giants,162,84,78
+885,2015,ARI,Arizona Diamondbacks,162,79,83
+886,2015,SDN,San Diego Padres,162,74,88
+887,2015,COL,Colorado Rockies,162,68,94
